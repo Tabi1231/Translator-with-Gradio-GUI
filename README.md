@@ -113,6 +113,9 @@ with gr.Blocks() as demo:
 demo.launch()
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
+![Screenshot_2024-08-01_05_48_52](https://github.com/user-attachments/assets/b1435e95-f407-405c-a4c1-f0b44cca4970)
+![Screenshot_2024-08-01_05_48_49](https://github.com/user-attachments/assets/133b0cd7-dfbe-4944-91e3-2c6786f970ec)
+![Screenshot_2024-08-01_05_48_44](https://github.com/user-attachments/assets/a0ef0460-fb4a-4ff8-9bd8-f91055043ec9)
+![Screenshot_2024-08-01_05_48_29](https://github.com/user-attachments/assets/4e56fdb5-db88-45aa-b504-c867dc20614d)
+![Screenshot_2024-08-01_05_48_27](https://github.com/user-attachments/assets/c3985b64-b32f-4a52-aa26-864a74316bab)
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
